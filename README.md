@@ -1,1 +1,2 @@
-# sorting-visualizer
+
+A sorting visualizer is a tool or application designed to demonstrate and illustrate the process of sorting algorithms visually. It typically takes an unsorted array of elements as input and employs various sorting algorithms to rearrange these elements into ascending or descending order. The primary purpose of a sorting visualizer is educational, allowing users to observe and comprehend how different sorting algorithms operate and compare their efficiency in real-time.
